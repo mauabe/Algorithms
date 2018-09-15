@@ -10,3 +10,5 @@ function twoNumberSum(array, targetSum) {
 	}
   return result;
 }
+
+//console.log(twoNumberSum([-4, 7, -1, -6, 3, 8, -2],10));
